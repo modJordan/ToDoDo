@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nkLx3qJC4HxvVAKgfbgzYUw8PhSbNrJqSYbbwt7SpjE=",
+  "Hash": "5KB9ZpdEMNALIRDfc0NQ9F8di5MFRbF5Dd83epoeO6Q=",
   "Source": "ToDoList",
   "BasePath": "_content/ToDoList",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ToDoList/wwwroot",
       "Source": "ToDoList",
-      "ContentRoot": "/Users/modfoxu/Desktop/Epicodus/practice/section-4-to-do-list-with-many-to-many-csharp-net6/ToDoList/wwwroot/",
+      "ContentRoot": "/Users/modfoxu/Desktop/Epicodus/practice/ToDoDo/ToDoList/wwwroot/",
       "BasePath": "_content/ToDoList",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/modfoxu/Desktop/Epicodus/practice/section-4-to-do-list-with-many-to-many-csharp-net6/ToDoList/wwwroot/css/styles.css",
+      "Identity": "/Users/modfoxu/Desktop/Epicodus/practice/ToDoDo/ToDoList/wwwroot/css/styles.css",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/modfoxu/Desktop/Epicodus/practice/section-4-to-do-list-with-many-to-many-csharp-net6/ToDoList/wwwroot/",
+      "ContentRoot": "/Users/modfoxu/Desktop/Epicodus/practice/ToDoDo/ToDoList/wwwroot/",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
