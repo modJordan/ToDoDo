@@ -1,9 +1,10 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace ToDoList.Models
 {
-  public class ToDoListContext : DbContext
-  {
+  public class ToDoListContext : IdentityDbContext<ApplicationUser>
+    {
     public DbSet<Category> Categories { get; set; }
     public DbSet<Item> Items { get; set; }
     public DbSet<Tag> Tags { get; set; }
